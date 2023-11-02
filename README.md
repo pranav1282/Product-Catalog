@@ -1,7 +1,7 @@
-## Project Title: Product Catalog
+# Project Title: Product Catalog
 
 ## Live Demo
-You can access a live demo of the project  [LINK]()
+You can access a live demo of the project  [LINK](https://pranav1282.github.io/products-page/)
 
 ### Project Overview
 The Product Catalog is a web application built with React.js and styled-components that allows users to view a list of products, filter and sort them based on various attributes, and navigate through the product list with a pagination system. It offers a visually appealing and responsive user interface with smooth transitions and animations.
@@ -21,7 +21,7 @@ The Product Catalog is a web application built with React.js and styled-componen
 ## How to Run the Project
 
 ### 1. Clone the repository:
-git clone <repository_link>
+git clone https://github.com/pranav1282/products-page.git
 ### 2. Navigate to the project directory:
 cd product-catalog
 ### 3. Install dependencies:
