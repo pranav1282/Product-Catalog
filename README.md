@@ -4,7 +4,7 @@
 You can access a live demo of the project  [LINK](https://pranav1282.github.io/products-page/)
 
 ### Project Overview
-The Product Catalog is a web application built with React.js and styled-components that allows users to view a list of products, filter and sort them based on various attributes, and navigate through the product list with a pagination system. It offers a visually appealing and responsive user interface with smooth transitions and animations.
+The Product Catalog is a web application built with React.js and styled-components that allows users to view a list of products, filter and sort them based on various attributes. It offers a visually appealing and responsive user interface with smooth transitions and animations.
 
 ### Features
 • Display a list of products with the following attributes for each product: image, title, description, and price.\
