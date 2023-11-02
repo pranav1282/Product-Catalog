@@ -9,14 +9,14 @@ The Product Catalog is a web application built with React.js and styled-componen
 ### Features
 • Display a list of products with the following attributes for each product: image, title, description, and price.\
 • Filter products by attributes (e.g., category).\
-• Sort products by attributes (e.g., price)./
-• Implement smooth transitions and animations for user interactions./
+• Sort products by attributes (e.g., price).\
+• Implement smooth transitions and animations for user interactions.\
 
 ### Technologies Used
-• React.js
-• Styled-components
-• HTML
-• CSS
+• React.js\
+• Styled-components\
+• HTML\
+• CSS\
 
 ## How to Run the Project
 
