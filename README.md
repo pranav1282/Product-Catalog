@@ -21,7 +21,7 @@ The Product Catalog is a web application built with React.js and styled-componen
 ## How to Run the Project
 
 ### 1. Clone the repository:
-git clone https://github.com/pranav1282/products-page.git
+git clone https://github.com/pranav1282/Product-Catalog.git
 ### 2. Navigate to the project directory:
 cd product-catalog
 ### 3. Install dependencies:
